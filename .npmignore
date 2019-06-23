@@ -2,8 +2,10 @@
 .eslint
 .eslint*
 .gitignore
+.scannerwork/
+.travis.yml
+coverage/
 jest*
 sonar*
-yarn.lock
 src/
-.travis.yml
+yarn.lock
