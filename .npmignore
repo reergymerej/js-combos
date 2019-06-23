@@ -1,0 +1,9 @@
+.babelrc
+.eslint
+.eslint*
+.gitignore
+jest*
+sonar*
+yarn.lock
+src/
+.travis.yml
