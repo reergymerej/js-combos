@@ -2,6 +2,9 @@
 
 Get all combinations.
 
+
+[![Build Status](https://travis-ci.org/reergymerej/js-combos.svg?branch=master)](https://travis-ci.org/reergymerej/js-combos)
+
 ```js
 import { pairs } from 'jex-js-combos'
 
