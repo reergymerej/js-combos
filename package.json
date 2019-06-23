@@ -6,7 +6,7 @@
     "combinations",
     "permutations"
   ],
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "lib/index.js",
   "scripts": {
     "start": "./node_modules/@babel/node/bin/babel-node.js src/index.js",
