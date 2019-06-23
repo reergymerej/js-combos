@@ -28,5 +28,7 @@
     "babel-eslint": "^10.0.2",
     "eslint": "3.x",
     "jest": "^24.8.0"
-  }
+  },
+  "repository": "git@github.com:reergymerej/js-combos.git",
+  "private": false
 }
